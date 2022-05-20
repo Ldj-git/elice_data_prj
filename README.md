@@ -1,8 +1,18 @@
-# 미슐랭 먹을랭
+# [미슐랭 먹을랭](http://elice-kdt-ai-4th-team03.elicecoding.com/)
 
 - 전세계의 미슐랭 맛집을 알려드립니다!
 
 ## 1. 프로젝트 소개
+
+### 👋 [프로젝트 배포 링크](http://elice-kdt-ai-4th-team03.elicecoding.com/)
+
+### 🏃 [회의록](https://accessible-homegrown-8d7.notion.site/5a144225630540af9d033cacdbc31170?v=00fb0388faec48678a8e9484bf7aca10)
+
+### 🔙 [API 명세 postman](https://documenter.getpostman.com/view/19588986/Uyr8my4y#intro)
+
+### 💻 [피그마 사용한 와이어프레임](https://www.figma.com/file/0D7Nak8ICaCEyJGaG0boSr/%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%EC%83%81?node-id=0%3A1)
+
+### 더 자세한 문서들은 노션에 있습니다. ➡️ [노션 링크](https://accessible-homegrown-8d7.notion.site/3-35d759706ac8491582e78c6708ea7652)
 
 ### 프로젝트 간단 설명
 
@@ -66,11 +76,7 @@
   - SNS 로그인 (카카오)
   - 임시 비밀번호 발급
 
-## 4. 프로젝트 구성도
-
-- [피그마 사용한 와이어프레임](https://www.figma.com/file/0D7Nak8ICaCEyJGaG0boSr/%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%EC%83%81?node-id=0%3A1)
-
-## 5. 프로젝트 팀원 역할 분담
+## 4. 프로젝트 팀원 역할 분담
 
 ### 크래프트 (코드 수제 맛집)
 
